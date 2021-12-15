@@ -1,0 +1,31 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=crossLightV1
+*Date=14:04:23
+*CreatedBy=Fritzing 0.9.9b.2021-09-22.CD-348-0-f0af53a9
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;220;THT;56.1622;-7.05551;0;Bottom;R1
+2;0.030;5 mm [THT];71.4022;-7.70674;0;Bottom;LED1
+3;0.1mF;100 mil [THT, electrolytic];24.4122;-45.1555;-180;Bottom;C2
+4;;dil14;11.7122;-17.2155;90;Bottom;U3
+5;;[THT];43.7523;-41.9055;90;Bottom;S1
+6;;DIP8 [THT];34.5722;-18.4855;0;Bottom;U1
+7;91k;THT;23.1422;-32.4555;90;Bottom;R5
+8;220;THT;56.1622;-14.6755;0;Bottom;R3
+9;10nF;100 mil [THT, multilayer];24.4075;-7.05551;0;Bottom;C3
+10;220;THT;56.1622;-29.9155;0;Bottom;R2
+11;91k;THT;28.2222;-32.4555;90;Bottom;R8
+12;;lipo-1000;91.4019;-11.6598;0;Bottom;U2
+13;220;THT;56.1622;-22.2955;0;Bottom;R4
+14;0.030;5 mm [THT];71.4022;-15.3267;0;Bottom;LED3
+15;0.030;5 mm [THT];71.4022;-30.5667;0;Bottom;LED4
+16;0.030;5 mm [THT];71.4022;-22.9467;0;Bottom;LED2
